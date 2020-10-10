@@ -1,37 +1,69 @@
 [
+
 {
-  "firstName": "Rack's",
-  "lastName": "Jackon",
-  "gender": "man",
-  "age": 24,
-  "address": {
-    "streetAddress": "126",
-    "city": "San Jone",
-    "state": "CA",
-    "postalCode": "394221"
+  "id": "1",
+  "des": "حذاء ميول بارز الملمس بإبزيم إغلاق بدبوس وكعب صغير
+ ",
+  "type": "جلدية",
+ 
+  "size": {
+    "first": "32",
+    "secand": "33",
+    "third": "34",
+    "fourd": "35"
   },
-  "phoneNumbers": [
+  "color": [
     {
-      "type": "home",
-      "number": "7383627627"
+      "first": "red",
+    "secand": "blue",
+    "third": "white",
+    "fourd": "black",
+    "five": "mix"
     }
   ]
 },
 {
-  "firstName": "Rack's",
-  "lastName": "Jackon",
-  "gender": "man",
-  "age": 24,
-  "address": {
-    "streetAddress": "126",
-    "city": "San Jone",
-    "state": "CA",
-    "postalCode": "394221"
+   "id": "2",
+  "des": "حذاء ميول بارز الملمس بإبزيم إغلاق بدبوس وكعب صغير
+ ",
+  "type": "اسنيكر",
+ 
+  "size": {
+    "first": "32",
+    "secand": "33",
+    "third": "34",
+    "fourd": "35"
   },
-  "phoneNumbers": [
+  "color": [
     {
-      "type": "home",
-      "number": "7383627627"
+      "first": "red",
+    "secand": "blue",
+    "third": "white",
+    "fourd": "black",
+    "five": "mix"
+    }
+  ]
+}
+,
+{
+   "id": "3",
+  "des": "حذاء ميول بارز الملمس بإبزيم إغلاق بدبوس وكعب صغير
+ ",
+  "type": "اسنيكر",
+ 
+  "size": {
+    "first": "32",
+    "secand": "33",
+    "third": "34",
+    "fourd": "35"
+  },
+  "color": [
+    {
+      "first": "red",
+    "secand": "blue",
+    "third": "white",
+    "fourd": "black",
+    "five": "mix"
     }
   ]
 }
