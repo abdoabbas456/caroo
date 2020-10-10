@@ -1,4 +1,5 @@
 {
+  [
   "firstName": "Rack's",
   "lastName": "Jackon",
   "gender": "man",
@@ -14,5 +15,6 @@
       "type": "home",
       "number": "7383627627"
     }
+  ]
   ]
 }
