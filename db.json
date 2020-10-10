@@ -1,9 +1,8 @@
 [
 
 {
-  "id": "1",
-  "des": "حذاء ميول بارز الملمس بإبزيم إغلاق بدبوس وكعب صغير
- ",
+  "id": "0",
+  "des": "حذاء ميول بارز الملمس بإبزيم إغلاق بدبوس وكعب صغير",
   "type": "جلدية",
  
   "size": {
@@ -12,21 +11,28 @@
     "third": "34",
     "fourd": "35"
   },
-  "color": [
+  "color": 
     {
       "first": "red",
     "secand": "blue",
     "third": "white",
     "fourd": "black",
     "five": "mix"
+    },
+    "image": 
+    {
+      "top": "red",
+    "left": "blue",
+    "right": "white",
+    "back": "black",
+    "mixer": "mix"
     }
-  ]
+
 },
 {
-   "id": "2",
-  "des": "حذاء ميول بارز الملمس بإبزيم إغلاق بدبوس وكعب صغير
- ",
-  "type": "اسنيكر",
+  "id": "1",
+  "des": "حذاء ميول بارز الملمس بإبزيم إغلاق بدبوس وكعب صغير",
+  "type": "جلدية",
  
   "size": {
     "first": "32",
@@ -34,22 +40,29 @@
     "third": "34",
     "fourd": "35"
   },
-  "color": [
+  "color": 
     {
       "first": "red",
     "secand": "blue",
     "third": "white",
     "fourd": "black",
     "five": "mix"
+    },
+    "image": 
+    {
+      "top": "red",
+    "left": "blue",
+    "right": "white",
+    "back": "black",
+    "mixer": "mix"
     }
-  ]
+
 }
 ,
 {
-   "id": "3",
-  "des": "حذاء ميول بارز الملمس بإبزيم إغلاق بدبوس وكعب صغير
- ",
-  "type": "اسنيكر",
+  "id": "2",
+  "des": "حذاء ميول بارز الملمس بإبزيم إغلاق بدبوس وكعب صغير",
+  "type": "جلدية",
  
   "size": {
     "first": "32",
@@ -57,14 +70,23 @@
     "third": "34",
     "fourd": "35"
   },
-  "color": [
+  "color": 
     {
       "first": "red",
     "secand": "blue",
     "third": "white",
     "fourd": "black",
     "five": "mix"
+    },
+    "image": 
+    {
+      "top": "red",
+    "left": "blue",
+    "right": "white",
+    "back": "black",
+    "mixer": "mix"
     }
-  ]
+
 }
+
 ]
